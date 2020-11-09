@@ -1,0 +1,29 @@
+.gameOver {
+    font-size: 4em;
+    color: red;
+}
+
+.red {
+    color: red;
+}
+
+.hide {
+    display: none;
+}
+
+.jumbotron {
+    margin: 100px;
+    text-align: center;
+}
+
+.background {
+    background-color: #E1CFCD;
+}
+
+p {
+    color: #778898;
+}
+
+.col-sm {
+    margin: 20px;
+}
